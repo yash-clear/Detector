@@ -1,13 +1,14 @@
 # Detector
 
-Tasks Performed
+## Tasks Performed
 - Masking
 - Object detection
 - Optical Character Recognition
-Libraries
+
+### Libraries
 - OpenCV
-- Tesseract
+- pytesseract
 - PIL
-Models
+### Models
 - Mobilenet
 - Maskcrnn
